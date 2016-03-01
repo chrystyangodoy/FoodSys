@@ -3,7 +3,7 @@
   $host_db = "localhost";
   $user_db = "root";
   $pass_db = "";
-  $my_db   = "sisvendas";
+  $my_db   = "SysFood";
 	
   /// REALIZA A CONEXÃO
   $conect = mysql_connect($host_db,$user_db ,$pass_db);

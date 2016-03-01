@@ -3,7 +3,7 @@
 $host = "localhost"; // endereco do banco de dados
 $usuario = "root"; // usuario do banco de dados
 $senhadobanco = ""; // senha do banco de dados
-$nomedobanco = "sisvendas"; //nome do banco de dados
+$nomedobanco = "SysFood"; //nome do banco de dados
 
 // NÃO ATERAR NADA DAQUI PARA BAIXO
 $db = mysql_connect($host,$usuario,$senhadobanco) or die (mysql_error());
